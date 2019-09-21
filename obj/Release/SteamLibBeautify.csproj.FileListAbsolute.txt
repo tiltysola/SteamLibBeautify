@@ -1,9 +1,0 @@
-D:\Projects\SteamLibBeautify\SteamLibBeautify\SteamLibBeautify\bin\Release\SteamLibBeautify.exe
-D:\Projects\SteamLibBeautify\SteamLibBeautify\SteamLibBeautify\bin\Release\SteamLibBeautify.pdb
-D:\Projects\SteamLibBeautify\SteamLibBeautify\SteamLibBeautify\obj\Release\SteamLibBeautify.csprojAssemblyReference.cache
-D:\Projects\SteamLibBeautify\SteamLibBeautify\SteamLibBeautify\obj\Release\SteamLibBeautify.Client.resources
-D:\Projects\SteamLibBeautify\SteamLibBeautify\SteamLibBeautify\obj\Release\SteamLibBeautify.Properties.Resources.resources
-D:\Projects\SteamLibBeautify\SteamLibBeautify\SteamLibBeautify\obj\Release\SteamLibBeautify.csproj.GenerateResource.cache
-D:\Projects\SteamLibBeautify\SteamLibBeautify\SteamLibBeautify\obj\Release\SteamLibBeautify.csproj.CoreCompileInputs.cache
-D:\Projects\SteamLibBeautify\SteamLibBeautify\SteamLibBeautify\obj\Release\SteamLibBeautify.exe
-D:\Projects\SteamLibBeautify\SteamLibBeautify\SteamLibBeautify\obj\Release\SteamLibBeautify.pdb
