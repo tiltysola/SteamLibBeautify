@@ -1,0 +1,42 @@
+﻿正在安装程序集“D:\Projects\SteamLibBeautify\SteamLibBeautify\Release\SteamLibBeautifyService.exe”。
+受影响的参数是:
+   assemblypath = D:\Projects\SteamLibBeautify\SteamLibBeautify\Release\SteamLibBeautifyService.exe
+   logfile = D:\Projects\SteamLibBeautify\SteamLibBeautify\Release\SteamLibBeautifyService.InstallLog
+正在安装服务 Steam Library Beautify...
+已成功安装服务 Steam Library Beautify。
+正在日志 Application 中创建 EventLog 源 Steam Library Beautify...
+查看日志文件的内容以获得 D:\Projects\SteamLibBeautify\SteamLibBeautify\Release\SteamLibBeautifyService.exe 程序集的进度。
+该文件位于 D:\Projects\SteamLibBeautify\SteamLibBeautify\Release\SteamLibBeautifyService.InstallLog。
+正在提交程序集“D:\Projects\SteamLibBeautify\SteamLibBeautify\Release\SteamLibBeautifyService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = D:\Projects\SteamLibBeautify\SteamLibBeautify\Release\SteamLibBeautifyService.exe
+   logfile = D:\Projects\SteamLibBeautify\SteamLibBeautify\Release\SteamLibBeautifyService.InstallLog
+正在卸载程序集“D:\Projects\SteamLibBeautify\SteamLibBeautify\SteamLibBeautify\Release\SteamLibBeautifyService.exe”。
+受影响的参数是:
+   assemblypath = D:\Projects\SteamLibBeautify\SteamLibBeautify\SteamLibBeautify\Release\SteamLibBeautifyService.exe
+   logfile = D:\Projects\SteamLibBeautify\SteamLibBeautify\SteamLibBeautify\Release\SteamLibBeautifyService.InstallLog
+正在移除 EventLog 源 Steam Library Beautify。
+正在从系统中移除服务 Steam Library Beautify...
+已成功地从系统中移除服务 Steam Library Beautify。
+正在安装程序集“D:\Projects\SteamLibBeautify\SteamLibBeautify\SteamLibBeautify\Release\SteamLibBeautifyService.exe”。
+受影响的参数是:
+   assemblypath = D:\Projects\SteamLibBeautify\SteamLibBeautify\SteamLibBeautify\Release\SteamLibBeautifyService.exe
+   logfile = D:\Projects\SteamLibBeautify\SteamLibBeautify\SteamLibBeautify\Release\SteamLibBeautifyService.InstallLog
+正在安装服务 Steam Library Beautify...
+已成功安装服务 Steam Library Beautify。
+正在日志 Application 中创建 EventLog 源 Steam Library Beautify...
+查看日志文件的内容以获得 D:\Projects\SteamLibBeautify\SteamLibBeautify\SteamLibBeautify\Release\SteamLibBeautifyService.exe 程序集的进度。
+该文件位于 D:\Projects\SteamLibBeautify\SteamLibBeautify\SteamLibBeautify\Release\SteamLibBeautifyService.InstallLog。
+正在提交程序集“D:\Projects\SteamLibBeautify\SteamLibBeautify\SteamLibBeautify\Release\SteamLibBeautifyService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = D:\Projects\SteamLibBeautify\SteamLibBeautify\SteamLibBeautify\Release\SteamLibBeautifyService.exe
+   logfile = D:\Projects\SteamLibBeautify\SteamLibBeautify\SteamLibBeautify\Release\SteamLibBeautifyService.InstallLog
+正在卸载程序集“D:\Projects\SteamLibBeautify - 副本\Release\SteamLibBeautifyService.exe”。
+受影响的参数是:
+   assemblypath = D:\Projects\SteamLibBeautify - 副本\Release\SteamLibBeautifyService.exe
+   logfile = D:\Projects\SteamLibBeautify - 副本\Release\SteamLibBeautifyService.InstallLog
+正在移除 EventLog 源 Steam Library Beautify。
+正在从系统中移除服务 Steam Library Beautify...
+已成功地从系统中移除服务 Steam Library Beautify。
